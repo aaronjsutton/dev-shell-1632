@@ -5,6 +5,10 @@
 A shell with all the package requirements for this class. Run everything you
 need on your machine with a single command.
 
+<p align="center">
+  <img src="/.github/media/terminal.gif" />
+</p>
+
 ## Why?
 
 > Because I like my terminal better than I do GitHub Codespaces.
@@ -12,7 +16,6 @@ need on your machine with a single command.
 ## How do I use this?
 
 First, you need to install the [Nix package manager](https://nixos.org/download).
-
 
 Clone this repository:
 
@@ -33,7 +36,7 @@ have a blast.
 
 ### What platforms?
 
-- macOS, and any Linux distro provided you have Nix. 
+- macOS, and any Linux distro provided you have Nix.
 - Docker
 - Windows?
 
@@ -52,4 +55,3 @@ Probably yes, if you use [WSL](https://learn.microsoft.com/en-us/windows/wsl/abo
 ### Does it support Apple Silicon?
 
 Probably not.
-
