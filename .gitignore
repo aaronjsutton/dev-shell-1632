@@ -1,0 +1,8 @@
+*
+!.*.?
+!flake.*
+!README.md
+!.github/
+!.github/*
+!.github/*/media/terminal.gif
+!.gitignore
