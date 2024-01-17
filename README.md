@@ -11,7 +11,8 @@ need on your machine with a single command.
 
 ## Why?
 
-> Because I like my terminal better than I do GitHub Codespaces.
+> Codespaces are very useful, but sometimes you just need a quick terminal
+> for debugging.
 
 ## How do I use this?
 
