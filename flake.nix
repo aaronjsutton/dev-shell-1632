@@ -8,6 +8,7 @@
     nixpkgs,
     ...
   }: let
+		# TODO: Add support for linux.
     system = "x86_64-darwin";
   in {
     devShells."${system}".default = let
