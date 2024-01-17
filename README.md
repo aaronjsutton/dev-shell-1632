@@ -46,9 +46,9 @@ have a blast.
 
 ### What platforms?
 
-- macOS, ~~and any Linux distro provided you have Nix~~ (need to add support).
-- ~~Docker~~ (It will, but not until above Linux works)
-- Windows?
+- macOS, and any Linux distro provided you have Nix.
+- Docker
+- Windows
 
 ### Does it support Docker?
 
