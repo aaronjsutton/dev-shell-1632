@@ -39,7 +39,7 @@ have a blast.
 
 - macOS, and any Linux distro provided you have Nix.
 - Docker
-- Windows?
+- Windows (?)
 
 ### Does it support Docker?
 
@@ -55,4 +55,4 @@ Probably yes, if you use [WSL](https://learn.microsoft.com/en-us/windows/wsl/abo
 
 ### Does it support Apple Silicon?
 
-Probably not.
+Probably, but I have not tested it.
