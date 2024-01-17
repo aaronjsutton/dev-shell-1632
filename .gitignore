@@ -1,8 +1,6 @@
+# Ignore everything by default, in case you want to clone repositories here.
 *
 !.*.?
 !flake.*
 !README.md
-!.github/
-!.github/*
-!.github/*/media/terminal.gif
 !.gitignore
