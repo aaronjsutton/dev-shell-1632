@@ -65,4 +65,4 @@ Probably yes, if you use [WSL](https://learn.microsoft.com/en-us/windows/wsl/abo
 
 ### Does it support Apple Silicon?
 
-Probably not.
+Probably, but I haven’t tested it.
